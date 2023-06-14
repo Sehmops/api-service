@@ -1,0 +1,8 @@
+{
+    "SERVER_PORT": 0,
+    "API_USER": "",
+    "API_PASSWORD": "",
+    "REDIS_HOST": "",
+    "REDIS_PASSWORD": "",
+    "REDIS_PORT": 0
+}
